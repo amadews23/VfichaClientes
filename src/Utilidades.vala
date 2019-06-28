@@ -1,4 +1,3 @@
-/* -*- Mode: C; indent-tabs-mode: t; c-basic-offset: 4; tab-width: 4 -*-  */
 /*
  * Utilidades.vala
  * Copyright (C) 2019 Bartolome Vich Lozano <tolo@tovilo.es> 28-6-2019
