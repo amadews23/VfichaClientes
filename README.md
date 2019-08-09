@@ -1,4 +1,7 @@
 # VfichaClientes
+
+Save customer data in an SQLite database
+
 ![ScreenShot](/img/fichaClientes.png)
 
 ## instructions to compile:
